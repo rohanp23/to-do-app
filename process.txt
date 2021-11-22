@@ -1,0 +1,5 @@
+1. how to install eslint 
+ans - npm install -g eslint and then eslint --init
+
+to show the lint errors - npm run lint 
+to fix lint errors = npm run lint -- --fix

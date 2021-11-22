@@ -1,0 +1,2 @@
+1. Navigate to the code folder and run npm install
+2. Run npm start. It will run the application and display the inital list of to do items
